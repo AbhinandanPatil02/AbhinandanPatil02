@@ -13,9 +13,7 @@
 
 - 👩‍🎓 I'm studing at **Pune Institute Of Computer Technology, Pune**
   
-- 🌱 I’m currently learning **Machine Learning**
-  
-- 💬 Ask me about **React,C++,DSA**
+- 💬 Ask me about **React,C++,DSA,Computer Science,MERN**
 
 - 📫 How to reach me **abhinandanpatil002@gmail.com**
 
