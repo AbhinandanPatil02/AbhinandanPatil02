@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **abhinandanpatil002@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1fFu7uhcgSmpqGdoBmvowGf80tty4eYO1/view?usp=sharing](https://drive.google.com/file/d/1fFu7uhcgSmpqGdoBmvowGf80tty4eYO1/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1uF22KUxBv1OnVNEfewAi4qSdpcP9gsMU/view?usp=sharing](https://drive.google.com/file/d/1uF22KUxBv1OnVNEfewAi4qSdpcP9gsMU/view?usp=sharing)
   
 
 
