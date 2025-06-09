@@ -39,3 +39,7 @@
 <a href="https://www.leetcode.com/abhinandanpatil02" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="abhinandanpatil02" height="30" width="40" /></a>
 </p>
 
+
+### 🐍 GitHub Contribution Graph
+
+![Snake animation](https://github.com/abhinandanpatil02/abhinandanpatil02/blob/output/github-contribution-grid-snake.svg)
