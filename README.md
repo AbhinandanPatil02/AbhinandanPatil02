@@ -1,47 +1,104 @@
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=abhinandanpatil02&style=for-the-badge" alt="Profile Views Badge"/>
+</div>
 
-<!--<img align="center" alt="coding" height="400" src="https://user-images.githubusercontent.com/115386517/225841791-e6eb2fcf-6de1-45ec-a5e8-0c321f0af245.gif">-->
-<h1 align="center">Hi 👋, I'm Abhinandan Patil</h1>
+<br>
 
+<!-- <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" alt="Developer Banner"/> -->
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=abhinandanpatil02&label=Profile%20views&color=0e75b6&style=flat" alt="abhinandanpatil02" /> </p>
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Inter&size=42&center=true&vCenter=true&width=650&height=70&color=4493F8&duration=4000&lines=Hi+There!+👋;+I'm+Abhinandan+Patil!;+MERN+Stack+Developer;+DSA+Problem+Solver;" />
+</h1>
 
-<p align="left">
-  
+### A Computer Engineering student passionate about building scalable applications and solving real-world problems.
+
+<h3>Glad to see you here!</h3>
+
+<p>
+I'm <b>Abhinandan Anil Patil</b>, currently studying at <b>Pune Institute of Computer Technology (PICT)</b> 🎓.  
+I enjoy working with the <b>MERN stack</b>, solving <b>DSA problems in C++</b>, and exploring <b>Machine Learning</b>.  
+I believe in learning by building things and improving step by step 🚀.
 </p>
 
+---
 
-### 🙋‍♂️ About Me
+<h3>Talking about me:</h3>
 
-- 👩‍🎓 I'm studing at **Pune Institute Of Computer Technology, Pune**
-  
-- 💬 Ask me about **React,C++,DSA,Computer Science,MERN**
+- 👨‍💻 MERN Stack Developer & DSA Enthusiast    
+- 🧠 Strong interest in **React, Node.js, MongoDB, C++**  
+- 💬 Ask me about **React, MERN, DSA, Computer Science**  
+- 📫 Reach me at **abhinandanpatil002@gmail.com**
 
-- 📫 How to reach me **abhinandanpatil002@gmail.com**
+---
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1_1WENP_QRViJ9UHyPqfVuGnYhcmY3uIs/view?usp=sharing](https://drive.google.com/file/d/1_1WENP_QRViJ9UHyPqfVuGnYhcmY3uIs/view?usp=sharing)
-  
+<div align="center">
+  <a href="mailto:abhinandanpatil002@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+  </a>
+  <a href="https://www.linkedin.com/in/abhinandan-patil-48970b258" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://leetcode.com/abhinandanpatil02" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+  </a>
+  <a href="https://github.com/abhinandanpatil02" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</div>
 
+<hr>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> </p>
+## 🏆 LeetCode Badges
 
+<div align="center">
+  <img src="https://assets.leetcode.com/static_assets/marketing/500_new.gif" width="100" />
+  <img src="https://assets.leetcode.com/static_assets/marketing/365_new.gif" width="100" />
+  <img src="https://assets.leetcode.com/static_assets/marketing/2024-200.gif" width="100" />
+  <img src="https://assets.leetcode.com/static_assets/marketing/2025.gif" width="100" />
+</div>
 
-  
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abhinandanpatil02&show_icons=true&locale=en&layout=compact" alt="abhinandanpatil02" /></p>
+<hr>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abhinandanpatil02&show_icons=true&locale=en" alt="abhinandanpatil02" /></p>
+## 🛠️ Languages and Tools
 
+<br>
 
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="http://www.linkedin.com/in/abhinandan-patil-48970b258" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abhinandan patil" height="30" width="40" /></a>
-<a href="https://instagram.com/abhipatil02" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="abhipatil02" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/abhinandanpatil02" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="abhinandanpatil02" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=cpp,java,python,js,react,nextjs,nodejs,express,mongodb,mysql" />
+  <br>
+  <img src="https://skillicons.dev/icons?i=html,css,tailwind,git,github,postman,figma,vscode" />
 </p>
 
+<hr>
 
-### 🐍 GitHub Contribution Graph
+## ⚡ GitHub Stats
+
+<br>
+
+<div align="center">
+  <img width="390" src="https://github-readme-stats.vercel.app/api?username=abhinandanpatil02&theme=transparent&show_icons=true&count_private=true&rank_icon=github" />
+  <img width="330" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhinandanpatil02&layout=donut&theme=transparent&langs_count=8" />
+</div>
+
+<br>
+
+<div align="center">
+  <img width="420" src="https://github-readme-streak-stats.herokuapp.com?user=abhinandanpatil02&theme=transparent" />
+</div>
+
+<hr>
+
+## 🐍 GitHub Contribution Graph
+
 
 ![Snake animation](https://github.com/abhinandanpatil02/abhinandanpatil02/blob/output/github-contribution-grid-snake.svg)
 
+<hr>
+
+### 📄 Resume
+👉 <a href="https://drive.google.com/file/d/1_1WENP_QRViJ9UHyPqfVuGnYhcmY3uIs/view" target="_blank">View My Resume</a>
+
+<hr>
+
+
+<h3 align="center">Thanks for visiting my GitHub profile! ⭐</h3>
