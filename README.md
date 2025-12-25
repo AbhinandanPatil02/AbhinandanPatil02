@@ -4,11 +4,19 @@
 
 <br>
 
-<!-- <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" alt="Developer Banner"/> -->
+
+
+<!-- <img src="" alt="Developer Banner"/> -->
+
+
+
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Inter&size=42&center=true&vCenter=true&width=650&height=70&color=4493F8&duration=4000&lines=Hi+There!+👋;+I'm+Abhinandan+Patil!;+MERN+Stack+Developer;+DSA+Problem+Solver;" />
+  <img 
+    src="https://readme-typing-svg.herokuapp.com/?font=Montserrat&weight=800&size=44&center=true&vCenter=true&width=700&height=80&color=4493F8&duration=4000&lines=Hi+There!+👋;+I'm+Abhinandan+Patil!;+MERN+Stack+Developer;+DSA+Problem+Solver;" 
+  />
 </h1>
+
 
 ### A Computer Engineering student passionate about building scalable applications and solving real-world problems.
 
@@ -51,11 +59,13 @@ I believe in learning by building things and improving step by step 🚀.
 ## 🏆 LeetCode Badges
 
 <div align="center">
+  <img alt="" class="absolute left-[50%] top-[50%] -translate-x-1/2 -translate-y-1/2 w-[162px]" src="https://assets.leetcode.com/static_assets/others/2025.gif" width="100">
   <img src="https://assets.leetcode.com/static_assets/marketing/500_new.gif" width="100" />
   <img src="https://assets.leetcode.com/static_assets/marketing/365_new.gif" width="100" />
   <img src="https://assets.leetcode.com/static_assets/marketing/2024-200.gif" width="100" />
-  <img src="https://assets.leetcode.com/static_assets/marketing/2025.gif" width="100" />
 </div>
+
+
 
 <hr>
 
@@ -101,4 +111,4 @@ I believe in learning by building things and improving step by step 🚀.
 <hr>
 
 
-<h3 align="center">Thanks for visiting my GitHub profile! ⭐</h3>
+<h3 align="center">Thanks for visiting my GitHub profile! </h3>
